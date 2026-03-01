@@ -28,6 +28,29 @@ Without structured transition analytics, system bottlenecks remain hidden.
 • Support faster reunification
 • Improve case management workflows
 • Inform policy-level process reforms
+## Key Performance
+1.Transfer Efficiency Ratio	Measures CBP → HHS speed
+2.Discharge Effectiveness Index	Placement success
+3.Pipeline Throughput	Overall system movement
+4.Backlog Accumulation Rate	Delay severity
+5.Outcome Stability Score	Consistency of placements
+## Dashboard visual 
+<img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/837fb75f-87e7-4672-b3e5-5a77c614b017" />
+<img width="1916" height="923" alt="image" src="https://github.com/user-attachments/assets/03e5d059-aaee-4938-8135-4eb443944040" />
+
+## Conclusion
+
+This project reframes the UAC dataset from a capacity monitoring lens to a process efficiency and outcome evaluation lens. By analyzing how effectively children move through the care pipeline, it provides actionable insights for improving reunification timelines, reducing delays, and strengthening child welfare outcomes.
+
+## Contact Details 
+
+Email_Id -pranayjha535@gmail.com
+
+Mobile no:- 8287432541
+
+## Author :- Pranay Jha 
+
+
 
 
 
